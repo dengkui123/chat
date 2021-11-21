@@ -1,0 +1,3 @@
+1. 修改module里的lcMysql.js数据库账号
+
+2. 修改前端包里的socket地址和接口地址
